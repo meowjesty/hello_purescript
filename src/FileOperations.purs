@@ -1,6 +1,5 @@
 module FileOperations where
 
-import Data.Path
 import Prelude
 
 import Control.MonadZero (guard)

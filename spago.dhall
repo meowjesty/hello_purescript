@@ -16,6 +16,7 @@ You can edit this file as you like.
     , "maybe"
     , "psci-support"
     , "strings"
+    , "validation"
     ]
 , packages =
     ./packages.dhall
