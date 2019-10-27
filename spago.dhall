@@ -5,7 +5,8 @@ You can edit this file as you like.
 { name =
     "my-project"
 , dependencies =
-    [ "arrays"
+    [ "aff"
+    , "arrays"
     , "console"
     , "control"
     , "effect"
@@ -15,6 +16,7 @@ You can edit this file as you like.
     , "math"
     , "maybe"
     , "psci-support"
+    , "random"
     , "strings"
     , "validation"
     ]
